@@ -1,5 +1,4 @@
 # rayquan300.github.io
-<!DOCTYPE html>
 <html>
 
 </html>
